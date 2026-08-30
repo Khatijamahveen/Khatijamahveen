@@ -1,131 +1,103 @@
-<h1 align="center">⚡ Khatija Mahveen</h1>
-<h3 align="center">Gold Medalist - M.E. Embedded Systems (9.65/10) | DRDO RCI Research Intern | PhD Aspirant</h3>
+# Khatija Mahveen
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khatijamahveen&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/badge/🏅-Gold%20Medalist-FFD700" alt="Gold Medalist" />
-  <img src="https://img.shields.io/badge/🔬-DRDO%20RCI%20Intern-blue" alt="DRDO" />
-  <img src="https://img.shields.io/badge/📄-Paper%20Under%20Review-red" alt="Paper" />
-</p>
+**Gold Medalist - M.E. Embedded Systems (CGPA: 9.65/10)** | **DRDO RCI Research Intern** | **PhD Aspirant**
 
 ---
 
-## 👩‍🔬 About Me
+## About Me
 
-Postgraduate in **Embedded Systems** with **CGPA 9.65/10** and **First Rank** in Master's batch. Completed **6-month research internship** at **DRDO - Research Centre Imarat (RCI)** , Hyderabad.
+Postgraduate in Embedded Systems with First Rank in Master's batch. Completed 6-month research internship at **DRDO - Research Centre Imarat (RCI)** , Hyderabad, working on FPGA-based fault-tolerant communication systems.
 
-📞 +91-8341693796 | 📧 mahveenkhatija4@gmail.com  
-📍 Hyderabad, India | 🎂 December 12, 2002
+**Research Focus:** Reliable Embedded Systems, Hardware-Software Co-Design, Real-Time Communication Protocols, Embedded AI, IoT for Mission-Critical Applications.
 
-🎯 **Target:** PhD in Embedded Systems, Hardware-Software Interfacing, Real-Time Communication
-
----
-
-## 🔬 Research Interests
-
-| Domain | Focus Areas |
-|--------|-------------|
-| **Embedded Systems** | Reliable Embedded Systems, Hardware-Software Co-Design |
-| **Communication** | Real-Time Communication Protocols |
-| **AI & IoT** | Embedded/Edge AI, IoT & Edge Computing |
-| **Applications** | Mission-critical and Industrial Applications |
+📧 mahveenkhatija4@gmail.com | 📞 +91-8341693796 | 📍 Hyderabad, India
 
 ---
 
-## 💼 Research Experience
+## Research Experience
 
-### 🔴 DRDO - Research Centre Imarat (RCI) | *Sept 2025 - Feb 2026*
-**Research Intern - Application-Driven Development for USB to RS-422 Conversion**
+**Research Intern | DRDO - Research Centre Imarat (RCI)** | *Sept 2025 - Feb 2026*
 
-- Designed FPGA-based architecture on **Xilinx Kintex-7** using **Vivado 2020.2**
-- Integrated **Cypress FX2LP USB controller** with dual-clock FIFO buffering
-- UART serialization at **115200 baud** with 32-bit XOR checksum error detection
-- ✅ **100% data integrity** | **0 bit errors** | ~83 Kbps throughput
-- ⚡ **1.1 ms** latency (12-byte) | **9.2 ms** latency (100-byte)
-- 🔧 Ultra-low utilization: **14% LUTs**, **11% FFs**
-- 🔄 Automatic redundancy switching (Channel-1 → Channel-2 on failure)
+**Project:** Application-Driven Development for USB to RS-422 Conversion
 
----
-
-## 📂 Academic Projects
-
-### 1. 🛒 Smart Shopping Trolley with Automated Billing
-**📄 Paper Under Review @ INERTCON 2026** | *April - August 2025*
-
-- **Arduino Nano** | **MFRC522 RFID** | **16×2 I²C LCD**
-- ✅ **99.6%** detection accuracy | **99.8%** billing accuracy
-- ⏱️ **77.5%** checkout reduction (8.0 → 1.8 minutes)
-- 🔋 <70mA consumption | ~8 hours runtime
-- 📊 500 scan trials | 50 unique tags | 3-15 items/basket
-
-### 2. 📡 Circularly Polarized Patch Antenna Array
-**HFSS | EBG/High-Impedance Surface** | *Jan - June 2024*
-
-- 📈 **7.49dB** gain | **180MHz** bandwidth
-- 📉 **-37.42dB** return loss | **1.02** VSWR
-- 🔬 Fabricated via **photolithography** | VNA characterization
-
-### 3. 🫁 Portable Ventilator
-**Arduino UNO | Servo Motor | I²C LCD** | *Jan - June 2023*
-
-- 💨 12 breaths/min | Adjustable cycles (3.5-6 sec)
-- 🔋 3.5-hour battery backup | UV sterilization | Crisis alarm
+- Designed FPGA-based architecture on **Xilinx Kintex-7** using **Vivado 2020.2** with Cypress FX2LP USB controller
+- Implemented dual-clock FIFO buffering for safe clock-domain crossing
+- Developed UART serialization at 115200 baud with 32-bit XOR checksum for error detection
+- Achieved **100% data integrity**, **0 bit errors**, ~83 Kbps throughput
+- Latency: **1.1 ms** (12-byte) | **9.2 ms** (100-byte)
+- FPGA utilization: **14% LUTs**, **11% FFs**
+- Designed automatic redundancy switching (Channel-1 → Channel-2 on failure)
 
 ---
 
-## 🛠️ Technical Skills
+## Academic Projects
+
+**Smart Shopping Trolley with Automated Billing** | *April - August 2025*
+*Paper Under Review @ INERTCON 2026*
+
+- RFID-based system using Arduino Nano, MFRC522, I²C LCD
+- **99.6%** detection accuracy | **99.8%** billing accuracy
+- **77.5%** checkout time reduction (8.0 → 1.8 minutes)
+- <70mA consumption | ~8 hours runtime
+- Validated across 500 scan trials with 50 unique tags
+
+**Circularly Polarized Patch Antenna Array** | *Jan - June 2024*
+
+- Designed at 2.4 GHz ISM band using HFSS with EBG/high-impedance surface
+- Achieved **7.49dB** gain, **180MHz** bandwidth
+- **-37.42dB** return loss | **1.02** VSWR
+- Fabricated using photolithography | VNA characterization
+
+**Portable Ventilator** | *Jan - June 2023*
+
+- Arduino UNO, servo motor, I²C LCD
+- 12 breaths/min | Adjustable cycles (3.5-6 sec)
+- 3.5-hour battery backup | UV sterilization | Crisis alarm
+
+---
+
+## Technical Skills
 
 | Category | Skills |
 |----------|--------|
-| **Embedded Systems** | RTL, FIFO, UART, SPI, I2C, Hardware-Software Interfacing, Embedded AI |
-| **FPGA & VLSI** | Vivado, Xilinx ISE, Logic Synthesis, FSM |
-| **Languages** | C, Verilog |
-| **IoT & Microcontrollers** | Arduino, STM32, ESP32, RFID, Sensor Integration |
+| **FPGA & VLSI** | Vivado, Xilinx ISE, Kintex-7, Logic Synthesis, FSM |
+| **Embedded Systems** | RTL, FIFO, UART, SPI, I2C, Hardware-Software Interfacing |
+| **Languages** | Verilog, C, Embedded C |
+| **Microcontrollers** | Arduino, STM32, ESP32, RFID |
+| **Simulation** | HFSS, VNA Characterization |
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-| 🥇 **Gold Medal** | First Rank - M.E. Embedded Systems (CGPA: 9.65/10) |
-| 🔬 **DRDO Intern** | Merit-based selection - Research Centre Imarat (RCI), 2025 |
-| 📄 **Research Paper** | Under Review @ INERTCON 2026 |
-| 🎤 **Tech Seminar** | Quantum Networking with Embedded Technology |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khatijamahveen&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatijamahveen&theme=radical&hide_border=true" alt="Streak" width="47%" />
-</p>
+- **Gold Medal** - First Rank in M.E. Embedded Systems (CGPA: 9.65/10)
+- **DRDO Internship** - Merit-based selection at Research Centre Imarat (RCI)
+- **Research Paper** - Under Review at INERTCON 2026
+- **Technical Seminar** - Quantum Networking with Embedded Technology
 
 ---
 
-## 🤝 Connect With Me
+## Education
 
-<p align="center">
-  <a href="https://linkedin.com/in/khatija-mahveen-28a482258">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mahveenkhatija4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/khatijamahveen">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| Degree | Institution | Year | CGPA |
+|--------|-------------|------|------|
+| M.E. Embedded Systems | Stanley College, Osmania University | 2024-2026 | 9.65/10 (Rank 1) |
+| B.E. ECE | Matrusri Engineering College, Osmania University | 2020-2024 | 8.23/10 |
 
 ---
 
-## 📌 Current Focus
+## Connect
 
-| 🎯 **PhD Application** | Embedded Systems, Hardware-Software Interfacing, Real-Time Communication |
-| 📝 **Research Paper** | INERTCON 2026 (Under Review) |
-| 🔧 **GitHub** | Uploading all research projects |
+[LinkedIn](https://linkedin.com/in/khatija-mahveen-28a482258) | [Instagram](https://instagram.com/deeba_12_) | [Email](mailto:mahveenkhatija4@gmail.com)
 
 ---
 
-<p align="center">
-  <i>"Building reliable systems for mission-critical applications"</i>
-</p>
+## Current Focus
+
+- PhD Application in Embedded Systems / Hardware-Software Co-Design
+- Research Paper Publication
+- Building Research Portfolio
+
+---
+
+*"Building reliable systems for mission-critical applications"*
