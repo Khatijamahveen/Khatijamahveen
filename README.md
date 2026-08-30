@@ -1,5 +1,5 @@
-<h1 align="center">👋 Khatija Mahveen</h1>
-<h3 align="center">Gold Medalist - M.E. Embedded Systems | DRDO RCI Intern | PhD Aspirant @ KAUST</h3>
+<h1 align="center">🚀 Khatija Mahveen</h1>
+<h3 align="center">Gold Medalist | M.E. Embedded Systems | DRDO RCI Intern | PhD Aspirant @ KAUST</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khatijamahveen&label=Profile%20Views&color=0e75b6&style=flat" alt="khatijamahveen" />
@@ -11,89 +11,50 @@
 
 ## 👩‍🔬 About Me
 
-I'm a **Gold Medalist** in M.E. Embedded Systems (CGPA: 9.65/10) from Osmania University. I completed my research internship at **DRDO - Research Centre Imarat (RCI)**, where I worked on FPGA-based USB to RS-422 communication systems for defense applications.
+I'm a **Gold Medalist** in M.E. Embedded Systems (9.65/10) from Osmania University, currently interning at **DRDO - Research Centre Imarat (RCI)**. I design **fault-tolerant FPGA-based communication systems** for mission-critical applications.
 
 🎯 **Target:** PhD in Electrical & Computer Engineering @ **KAUST** (Spring 2027)
-
-📧 mahveenkhatija4@gmail.com | 📱 +91-8341693796 | 📍 Hyderabad, India
 
 ---
 
 ## 🔬 Research Interests
 
-- Reliable Embedded Systems
-- Hardware-Software Co-Design
-- Real-Time Communication Protocols
-- Embedded/Edge AI
-- IoT & Edge Computing for Mission-Critical Applications
+- Reliable Embedded Systems & Hardware-Software Co-Design
+- FPGA-based Real-Time Communication Protocols
+- IoT & Edge Computing for Industrial Applications
+- Cyber-Physical Systems Security
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | CGPA | Year |
-|--------|-------------|------|------|
-| **M.E. Embedded Systems** | Osmania University - Stanley College | **9.65/10** (Gold Medal) | 2024-2026 |
-| **B.E. Electronics & Comm. Engg.** | Osmania University - Matrusri Engineering College | 8.23/10 | 2020-2024 |
-
----
-
-## 🔬 Research Experience
-
-### DRDO RCI - Research Intern | Sep 2025 - Feb 2026
-**Project:** Application-Driven Development for USB to RS-422 Conversion
-
-- Designed FPGA-based USB to RS-422 architecture on **Xilinx Kintex-7** using **Vivado 2020.2**
-- Integrated Cypress FX2LP USB controller, dual-clock FIFO buffering, UART at 115200 baud
-- Developed modular RTL with packet framing (SOF/EOF), 32-bit XOR checksum for error detection
-- **Achieved:** 100% data integrity, 0 bit errors, ~83 Kbps throughput, 1.1ms latency (12-byte)
-- **Resource utilization:** 14% LUTs, 11% FFs
-- Automatic redundancy switching (Channel-1 → Channel-2 on simulated failure)
-
----
-
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
 | Category | Skills |
 |----------|--------|
-| **FPGA & VLSI** | Vivado, Xilinx ISE, Logic Synthesis, FSM |
-| **Embedded Systems** | RTL, FIFO, UART, SPI, I2C, Hardware-Software Interfacing |
-| **Microcontrollers** | Arduino, STM32, ESP32, RFID, Sensor Integration |
+| **FPGA & VLSI** | Xilinx Vivado, ISE, Kintex-7, Logic Synthesis, FSM |
+| **Microcontrollers** | Arduino, STM32, ESP32 |
+| **Languages** | Verilog, C, Python |
+| **Communication** | UART, SPI, I2C, USB, RS-422 |
+| **Simulation** | HFSS, VNA Characterization |
+| **Tools** | Git, Linux, Embedded C |
 
 ---
 
-## 📂 Academic Projects
+## 🏆 Featured Projects
 
-### 1. Smart Shopping Trolley with Automated Billing | Apr-Aug 2025
-- RFID-based automated billing using Arduino Nano, MFRC522, 16x2 LCD
-- **Results:** 99.6% detection accuracy, 99.8% billing accuracy
-- **Impact:** Checkout time reduced from 8.0 → 1.8 minutes (77.5% reduction)
-- Current consumption: <70mA, ~8 hours runtime
-- 📄 **Paper under review @ IEEE Sensors Journal**
+### 1. FPGA-based USB to RS-422 Communication System
+🔬 **DRDO RCI** | Xilinx Kintex-7, Vivado 2020.2
+- ✅ 100% data integrity | 0 bit errors | ~83 Kbps throughput
+- ✅ Automatic redundancy switching (Channel-1 → Channel-2 on failure)
+- ✅ Low FPGA utilization: 14% LUTs, 11% FFs
 
-### 2. Circularly Polarized Patch Antenna Array | Jan-Jun 2024
-- 2x2 array at 2.4GHz ISM band using HFSS
-- **Results:** 7.49dB gain, 180MHz bandwidth, -37.42dB return loss, 1.02 VSWR
-- Fabricated using photolithography, characterized with VNA
+### 2. Smart Shopping Trolley with Automated Billing
+📄 **Paper under review @ IEEE Sensors Journal**
+- ✅ 99.6% detection accuracy | 99.8% billing accuracy
+- ✅ 77.5% reduction in checkout time (8.0 → 1.8 minutes)
 
-### 3. Portable Ventilator | Jan-Jun 2023
-- Arduino UNO, servo motor, I2C LCD
-- 12 breaths/min, 3.5-hour battery backup
-- UV sterilization, crisis alarm system
-
----
-
-## 📝 Technical Presentations
-
-- **Quantum Networking with Embedded Technology** - Departmental Research Colloquium, Stanley College
-- Explored quantum communication principles, hybrid quantum-classical architectures, China's Micius satellite, Google's Sycamore processor
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Gold Medal** - First Rank in M.E. Embedded Systems (9.65/10)
-- 🔬 **DRDO RCI Internship** - Merit-based selection, Research Centre Imarat
+### 3. Circularly Polarized Patch Antenna Array
+📡 **HFSS | Photolithography Fabrication**
+- ✅ 7.49dB gain | 180MHz bandwidth | -37.42dB return loss
 
 ---
 
@@ -119,6 +80,14 @@ I'm a **Gold Medalist** in M.E. Embedded Systems (CGPA: 9.65/10) from Osmania Un
 
 ---
 
+## 📌 Current Focus
+
+- 🎯 **PhD Application @ KAUST** - Spring 2027 Intake
+- 📝 **Research Papers** - IEEE Sensors (under review)
+- 🔧 **GitHub Portfolio** - Uploading all research projects
+
+---
+
 <p align="center">
-  <i>"Building reliable embedded systems for mission-critical applications"</i>
+  <i>"Building reliable systems for mission-critical applications"</i>
 </p>
