@@ -6,7 +6,7 @@
 
 ## About Me
 
-Postgraduate in Embedded Systems with First Rank in Master's batch. Completed 6-month research internship at **Defence Research and Development Organisation (DRDO) - Research Centre Imarat (RCI)** , India's premier defense research organization, worked on FPGA-based fault-tolerant communication systems for defense applications.
+Postgraduate in Embedded Systems with First Rank in Master's batch. Completed a 6-month research internship at Defence Research and Development Organisation (DRDO) - Research Centre Imarat (RCI), India's premier defense research organization, working on FPGA-based fault-tolerant communication systems for embedded defense applications..
 
 **Research Focus:** Reliable Embedded Systems, Hardware-Software Co-Design, Real-Time Communication Protocols, Embedded AI, IoT for Mission-Critical and Industrial Applications.
 
