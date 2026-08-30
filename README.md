@@ -1,80 +1,118 @@
-<h1 align="center">🚀 Khatija Mahveen</h1>
-<h3 align="center">Gold Medalist | M.E. Embedded Systems | DRDO RCI Intern | PhD Aspirant @ KAUST</h3>
+<h1 align="center">⚡ Khatija Mahveen</h1>
+<h3 align="center">Gold Medalist - M.E. Embedded Systems (9.65/10) | DRDO RCI Research Intern | PhD Aspirant</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khatijamahveen&label=Profile%20Views&color=0e75b6&style=flat" alt="khatijamahveen" />
-  <img src="https://img.shields.io/badge/Gold%20Medalist-9.65%2F10-FFD700" alt="Gold Medalist" />
-  <img src="https://img.shields.io/badge/DRDO-RCI%20Intern-blue" alt="DRDO" />
+  <img src="https://komarev.com/ghpvc/?username=khatijamahveen&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/badge/🏅-Gold%20Medalist-FFD700" alt="Gold Medalist" />
+  <img src="https://img.shields.io/badge/🔬-DRDO%20RCI%20Intern-blue" alt="DRDO" />
+  <img src="https://img.shields.io/badge/📄-Paper%20Under%20Review-red" alt="Paper" />
 </p>
 
 ---
 
 ## 👩‍🔬 About Me
 
-I'm a **Gold Medalist** in M.E. Embedded Systems (9.65/10) from Osmania University, currently interning at **DRDO - Research Centre Imarat (RCI)**. I design **fault-tolerant FPGA-based communication systems** for mission-critical applications.
+Postgraduate in **Embedded Systems** with **CGPA 9.65/10** and **First Rank** in Master's batch. Completed **6-month research internship** at **DRDO - Research Centre Imarat (RCI)** , Hyderabad.
 
-🎯 **Target:** PhD in Electrical & Computer Engineering @ **KAUST** (Spring 2027)
+📞 +91-8341693796 | 📧 mahveenkhatija4@gmail.com  
+📍 Hyderabad, India | 🎂 December 12, 2002
+
+🎯 **Target:** PhD in Embedded Systems, Hardware-Software Interfacing, Real-Time Communication
 
 ---
 
 ## 🔬 Research Interests
 
-- Reliable Embedded Systems & Hardware-Software Co-Design
-- FPGA-based Real-Time Communication Protocols
-- IoT & Edge Computing for Industrial Applications
-- Cyber-Physical Systems Security
+| Domain | Focus Areas |
+|--------|-------------|
+| **Embedded Systems** | Reliable Embedded Systems, Hardware-Software Co-Design |
+| **Communication** | Real-Time Communication Protocols |
+| **AI & IoT** | Embedded/Edge AI, IoT & Edge Computing |
+| **Applications** | Mission-critical and Industrial Applications |
 
 ---
 
-## 🛠️ Technical Arsenal
+## 💼 Research Experience
+
+### 🔴 DRDO - Research Centre Imarat (RCI) | *Sept 2025 - Feb 2026*
+**Research Intern - Application-Driven Development for USB to RS-422 Conversion**
+
+- Designed FPGA-based architecture on **Xilinx Kintex-7** using **Vivado 2020.2**
+- Integrated **Cypress FX2LP USB controller** with dual-clock FIFO buffering
+- UART serialization at **115200 baud** with 32-bit XOR checksum error detection
+- ✅ **100% data integrity** | **0 bit errors** | ~83 Kbps throughput
+- ⚡ **1.1 ms** latency (12-byte) | **9.2 ms** latency (100-byte)
+- 🔧 Ultra-low utilization: **14% LUTs**, **11% FFs**
+- 🔄 Automatic redundancy switching (Channel-1 → Channel-2 on failure)
+
+---
+
+## 📂 Academic Projects
+
+### 1. 🛒 Smart Shopping Trolley with Automated Billing
+**📄 Paper Under Review @ INERTCON 2026** | *April - August 2025*
+
+- **Arduino Nano** | **MFRC522 RFID** | **16×2 I²C LCD**
+- ✅ **99.6%** detection accuracy | **99.8%** billing accuracy
+- ⏱️ **77.5%** checkout reduction (8.0 → 1.8 minutes)
+- 🔋 <70mA consumption | ~8 hours runtime
+- 📊 500 scan trials | 50 unique tags | 3-15 items/basket
+
+### 2. 📡 Circularly Polarized Patch Antenna Array
+**HFSS | EBG/High-Impedance Surface** | *Jan - June 2024*
+
+- 📈 **7.49dB** gain | **180MHz** bandwidth
+- 📉 **-37.42dB** return loss | **1.02** VSWR
+- 🔬 Fabricated via **photolithography** | VNA characterization
+
+### 3. 🫁 Portable Ventilator
+**Arduino UNO | Servo Motor | I²C LCD** | *Jan - June 2023*
+
+- 💨 12 breaths/min | Adjustable cycles (3.5-6 sec)
+- 🔋 3.5-hour battery backup | UV sterilization | Crisis alarm
+
+---
+
+## 🛠️ Technical Skills
 
 | Category | Skills |
 |----------|--------|
-| **FPGA & VLSI** | Xilinx Vivado, ISE, Kintex-7, Logic Synthesis, FSM |
-| **Microcontrollers** | Arduino, STM32, ESP32 |
-| **Languages** | Verilog, C, Python |
-| **Communication** | UART, SPI, I2C, USB, RS-422 |
-| **Simulation** | HFSS, VNA Characterization |
-| **Tools** | Git, Linux, Embedded C |
+| **Embedded Systems** | RTL, FIFO, UART, SPI, I2C, Hardware-Software Interfacing, Embedded AI |
+| **FPGA & VLSI** | Vivado, Xilinx ISE, Logic Synthesis, FSM |
+| **Languages** | C, Verilog |
+| **IoT & Microcontrollers** | Arduino, STM32, ESP32, RFID, Sensor Integration |
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Achievements
 
-### 1. FPGA-based USB to RS-422 Communication System
-🔬 **DRDO RCI** | Xilinx Kintex-7, Vivado 2020.2
-- ✅ 100% data integrity | 0 bit errors | ~83 Kbps throughput
-- ✅ Automatic redundancy switching (Channel-1 → Channel-2 on failure)
-- ✅ Low FPGA utilization: 14% LUTs, 11% FFs
-
-### 2. Smart Shopping Trolley with Automated Billing
-📄 **Paper under review @ IEEE Sensors Journal**
-- ✅ 99.6% detection accuracy | 99.8% billing accuracy
-- ✅ 77.5% reduction in checkout time (8.0 → 1.8 minutes)
-
-### 3. Circularly Polarized Patch Antenna Array
-📡 **HFSS | Photolithography Fabrication**
-- ✅ 7.49dB gain | 180MHz bandwidth | -37.42dB return loss
+| 🥇 **Gold Medal** | First Rank - M.E. Embedded Systems (CGPA: 9.65/10) |
+| 🔬 **DRDO Intern** | Merit-based selection - Research Centre Imarat (RCI), 2025 |
+| 📄 **Research Paper** | Under Review @ INERTCON 2026 |
+| 🎤 **Tech Seminar** | Quantum Networking with Embedded Technology |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khatijamahveen&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatijamahveen&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khatijamahveen&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatijamahveen&theme=radical&hide_border=true" alt="Streak" width="47%" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/khatija-mahveen-28a482258" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/khatija-mahveen-28a482258">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mahveenkhatija4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
+  <a href="mailto:mahveenkhatija4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/khatijamahveen">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -82,9 +120,9 @@ I'm a **Gold Medalist** in M.E. Embedded Systems (9.65/10) from Osmania Universi
 
 ## 📌 Current Focus
 
-- 🎯 **PhD Application @ KAUST** - Spring 2027 Intake
-- 📝 **Research Papers** - IEEE Sensors (under review)
-- 🔧 **GitHub Portfolio** - Uploading all research projects
+| 🎯 **PhD Application** | Embedded Systems, Hardware-Software Interfacing, Real-Time Communication |
+| 📝 **Research Paper** | INERTCON 2026 (Under Review) |
+| 🔧 **GitHub** | Uploading all research projects |
 
 ---
 
