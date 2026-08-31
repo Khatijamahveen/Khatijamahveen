@@ -10,7 +10,7 @@ Postgraduate in Embedded Systems with First Rank in Master's batch. Completed a 
 
 **Research Focus:** Reliable Embedded Systems, Hardware-Software Co-Design, Real-Time Communication Protocols, Embedded AI, IoT for Mission-Critical and Industrial Applications.
 
-📧 mahveenkhatija4@gmail.com | 📞 +91-8341693796 | 📍 Hyderabad, India
+📧 mahveenkhatija1@gmail.com | 📞 +91-8341693796 | 📍 Hyderabad, India
 
 ---
 
