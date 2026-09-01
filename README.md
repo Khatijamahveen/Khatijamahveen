@@ -56,7 +56,7 @@ Neeraja B., Nagalaxmi T., and Mahveen Khatija. *"Design and Implementation of a 
 - **Performance:** 7.49dB gain, 180MHz bandwidth, -37.42dB return loss, 1.02 VSWR
 - Fabricated using photolithography | Characterized using Vector Network Analyzer (VNA)
 
-**Portable Ventilator** | *Jan - June 2023*
+**DIY Portable Ventilator** | *Jan - June 2023*
 
 - Automated BVM/AMBU bag using Arduino UNO, servo motor, I²C LCD
 - 12 breaths/min | Adjustable cycles (3.5-6 sec)
