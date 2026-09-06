@@ -71,8 +71,8 @@ I am a postgraduate in **Embedded Systems** with First Rank in my Master's batch
 
 | Category | Skills |
 | :--- | :--- |
-| **Embedded Systems** | RTL, FIFO, UART, SPI, I2C, Hardware-Software Interfacing, Sensor Fusion |
-| **FPGA & VLSI** | **Verilog, Vivado, Xilinx Kintex-7, Logic Synthesis, FSM** |
+| **Embedded Systems** | FIFO, UART, SPI, I2C, Hardware-Software Interfacing, Sensor Fusion |
+| **FPGA & VLSI** | **Verilog, Vivado, Xilinx, Logic Synthesis, FSM** |
 | **Languages** | C, Verilog |
 | **IoT & Microcontrollers** | Arduino, STM32, ESP32, RFID, Sensor Integration, Industrial IoT |
 
