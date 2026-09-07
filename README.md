@@ -1,5 +1,5 @@
 # 🚀 Khatija Mahveen  
-**Embedded Systems Engineer | FPGA Developer | DRDO Intern | Gold Medalist | PhD Aspirant (Spring 2027)**  
+**Embedded Systems Engineer | DRDO Intern | Gold Medalist | PhD Aspirant (Spring 2027)**  
 *"Building resilient embedded systems for mission‑critical applications."*
 
 ---
