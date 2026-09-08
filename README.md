@@ -1,5 +1,5 @@
 # 🚀 Khatija Mahveen  
-**Embedded Systems Engineer | DRDO Intern | Gold Medalist | PhD Aspirant (Spring 2027)**  
+**Embedded Systems Engineer | DRDO Intern | PhD Aspirant (Spring 2027)**  
 *"Building resilient embedded systems for mission‑critical applications."*
 
 ---
@@ -81,7 +81,7 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 ---
 
 ## 🏆 Achievements  
-- 🥇 **Gold Medalist** — M.E. Embedded Systems (CGPA: 9.65/10)  
+- 🥇 **First Rank** — M.E. Embedded Systems (CGPA: 9.65/10)  
 - 🛡️ **DRDO Intern** — Merit-based selection  
 - 📝 **Research Paper** — Under review  
 
