@@ -26,11 +26,11 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 - Built **UART @115200 baud** with 32‑bit XOR checksum.  
 - Performed **error injection** + **stress tests** (12‑byte & 100‑byte).  
 - **Results:**  
-  - ✔ 100% data integrity  
-  - ✔ 0 bit errors  
-  - ✔ ~83 Kbps throughput  
-  - ✔ Latency: 1.1 ms (12B), 9.2 ms (100B)  
-  - ✔ FPGA Utilization: 14% LUTs, 11% FFs  
+  ✔ 100% data integrity  
+  ✔ 0 bit errors  
+  ✔ ~83 Kbps throughput  
+  ✔ Latency: 1.1 ms (12B), 9.2 ms (100B)  
+  ✔ FPGA Utilization: 14% LUTs, 11% FFs  
 - Designed **automatic redundancy switching** (Ch‑1 → Ch‑2) with **zero data loss**.
 
 ---
