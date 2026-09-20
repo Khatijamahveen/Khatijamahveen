@@ -1,5 +1,5 @@
 # 🚀 Khatija Mahveen  
-**Embedded Systems Engineer | DRDO Intern | PhD Aspirant (Spring 2027)**  
+**Embedded Systems Engineer | DRDO-RCI Intern | PhD Aspirant (Spring 2027)**  
 *"Building resilient embedded systems for mission‑critical applications."*
 
 ---
