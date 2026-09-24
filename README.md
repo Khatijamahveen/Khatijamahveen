@@ -36,8 +36,8 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 ---
 
 ## 📝 Publication  
-**INERTCON 2026 — Under Review**  
-*Low-Power RFID-Based Smart Shopping Trolley with Real-Time Automated Billing*
+**3rd International Conference on Electronic Circuits and Signaling Technologies (ICECST 2026), Lincoln University College, Malaysia (Sept 2026) — Accepted for Publication**  
+*LDesign and Implementation of a Low-Power, Cost-Effective RFID-Based Smart Shopping Trolley with Real-Time Automated Billing for Small-Scale Retail*
 
 ---
 
