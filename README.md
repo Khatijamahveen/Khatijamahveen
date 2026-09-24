@@ -20,7 +20,7 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 ### **Research Intern — DRDO (RCI)**  
 **Project:** USB → RS‑422 FPGA-Based Communication System  
 
-- Designed communication architecture on **Xilinx Kintex‑7** (Vivado 2020.2).  
+- Validated communication architecture on **Xilinx Kintex‑7** (Vivado 2020.2).  
 - Integrated **Cypress FX2LP USB controller** with FPGA logic.  
 - Implemented **dual‑clock FIFO** for safe clock-domain crossing.  
 - Built **UART @115200 baud** with 32‑bit XOR checksum.  
