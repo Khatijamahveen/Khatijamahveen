@@ -37,7 +37,7 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 
 ## 📝 Publication  
 **3rd International Conference on Electronic Circuits and Signaling Technologies (ICECST 2026), Lincoln University College, Malaysia (Sept 2026) — Accepted for Publication**  
-*LDesign and Implementation of a Low-Power, Cost-Effective RFID-Based Smart Shopping Trolley with Real-Time Automated Billing for Small-Scale Retail*
+*Design and Implementation of a Low-Power, Cost-Effective RFID-Based Smart Shopping Trolley with Real-Time Automated Billing for Small-Scale Retail*
 
 ---
 
@@ -83,7 +83,7 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 ## 🏆 Achievements  
 - 🥇 **First Rank** — M.E. Embedded Systems (CGPA: 9.65/10)  
 - 🛡️ **DRDO Intern** — Merit-based selection  
-- 📝 **Research Paper** — Under review  
+- 📝 **Research Paper** — Accepted for Publication 
 
 ---
 
