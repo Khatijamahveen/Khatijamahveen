@@ -82,8 +82,8 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 
 ## 🏆 Achievements  
 - 🥇 **First Rank** — M.E. Embedded Systems (CGPA: 9.65/10)  
-- 🛡️ **DRDO Intern** — Merit-based selection  
-- 📝 **Research Paper** — Accepted for Publication 
+- 🛡️ **DRDO-RCI Paid Intern** — Merit-based selection 2025  
+- 📝 **Research Paper** — Accepted for Publication, Sept 2026
 
 ---
 
