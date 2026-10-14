@@ -17,7 +17,7 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 ---
 
 ## 🔬 Research Experience  
-### **Research Intern — DRDO (RCI)**  
+### **Research Intern - DRDO (RCI)**  
 **Project:** USB → RS‑422 FPGA-Based Communication System  
 
 - Validated communication architecture on **Xilinx Kintex‑7** (Vivado 2020.2).  
