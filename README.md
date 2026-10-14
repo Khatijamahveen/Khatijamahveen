@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About Me  
-I’m an Embedded Systems engineer with a strong foundation in ECE and a passion for designing **reliable, real-time, and hardware-driven embedded solutions**. I graduated **Rank 1** in my M.E. Embedded Systems program and completed a 6‑month **FPGA research internship at DRDO–RCI**, where I worked on fault‑tolerant communication systems for defense applications.
+I’m an Embedded Systems engineer with a strong foundation in ECE and a passion for designing **reliable, real-time, and hardware-driven embedded solutions**. I graduated **Rank 1** in my M.E. Embedded Systems program and completed a 6‑month **FPGA research internship at DRDO-RCI**, where I worked on fault‑tolerant communication systems for defense applications.
 
 I love working at the intersection of **embedded hardware, firmware, communication protocols, and IoT**, and I enjoy building systems that behave predictably under constraints.
 
