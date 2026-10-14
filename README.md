@@ -36,7 +36,7 @@ I love working at the intersection of **embedded hardware, firmware, communicati
 ---
 
 ## 📝 Publication  
-**3rd International Conference on Electronic Circuits and Signaling Technologies (ICECST 2026), Lincoln University College, Malaysia (Sept 2026) — Accepted for Publication**  
+**3rd International Conference on Electronic Circuits and Signaling Technologies (ICECST 2026), Lincoln University College, Malaysia (Sept 2026) - Accepted for Publication**  
 *Design and Implementation of a Low-Power, Cost-Effective RFID-Based Smart Shopping Trolley with Real-Time Automated Billing for Small-Scale Retail*
 
 ---
